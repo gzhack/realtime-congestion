@@ -1,0 +1,7 @@
+{
+  "name": "congestion",
+  "script": "worker.js",
+  "error_file": "./log/err",
+  "out_file": "./log/out",
+  "autorestart": true,
+}
